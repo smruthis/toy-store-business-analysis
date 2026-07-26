@@ -148,7 +148,7 @@ toy-store-sales-dashboard/
 
 ### Marketing & Website Analytics Dashboard
 
-![image alt]([https://github.com/smruthis/toy-store-business-analysis/blob/53871a5502edbee5f0d2f498d31c9140f6b6be4c/Images/Executive%20Dashboard.png](https://github.com/smruthis/toy-store-business-analysis/blob/94a5a74836ba7925a00bfb63a180aba400e26ea5/Images/Marketing%20%26%20Website%20Analytics%20Dashboard.png))
+![image alt](https://github.com/smruthis/toy-store-business-analysis/blob/3d8603b90aacc061bedebac383b4eedb801ad928/Images/Marketing%20%26%20Website%20Analytics%20Dashboard.png)
 
 ---
 
