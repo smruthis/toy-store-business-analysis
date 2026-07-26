@@ -151,6 +151,7 @@ toy-store-sales-dashboard/
 ![image alt](https://github.com/smruthis/toy-store-business-analysis/blob/3d8603b90aacc061bedebac383b4eedb801ad928/Images/Marketing%20%26%20Website%20Analytics%20Dashboard.png)
 
 ---
+**Link to the dashboard:** https://drive.google.com/file/d/1Y2T0uTeLZRt6DBGt3RovxSA_RC4_NeOu/view?usp=sharing
 
 # 💡 Key Business Insights
 
