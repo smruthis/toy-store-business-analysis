@@ -137,8 +137,7 @@ toy-store-sales-dashboard/
 
 ### Executive Sales Dashboard
 
-[*(Add screenshot here)*](https://github.com/smruthis/toy-store-business-analysis/blob/53871a5502edbee5f0d2f498d31c9140f6b6be4c/Images/Executive%20Dashboard.png)
-
+https://github.com/smruthis/toy-store-business-analysis/blob/53871a5502edbee5f0d2f498d31c9140f6b6be4c/Images/Executive%20Dashboard.png
 ---
 
 ### Product Performance Dashboard
