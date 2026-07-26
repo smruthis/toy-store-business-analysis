@@ -21,6 +21,17 @@ The dashboard helps business stakeholders:
 - Support data-driven business decisions
 
 ---
+## 🔄 Project Workflow
+
+1. Collected and explored raw e-commerce datasets.
+2. Performed SQL analysis to answer key business questions.
+3. Cleaned and transformed data using Power Query.
+4. Built relationships and created a star schema in Power BI.
+5. Developed DAX measures for business KPIs.
+6. Designed interactive dashboards for Executive, Product, and Marketing analysis.
+7. Generated business insights to support decision-making.
+
+---
 
 # 🛠 Tools & Technologies
 
@@ -30,6 +41,19 @@ The dashboard helps business stakeholders:
 - DAX
 - Microsoft Excel
 - CSV Dataset
+
+---
+
+## 📂 Dataset
+
+The project uses an e-commerce toy store dataset containing:
+
+- Orders
+- Order Items
+- Products
+- Website Sessions
+- Website Pageviews
+- Order Item Refunds
 
 ---
 
@@ -84,17 +108,15 @@ Analysis of website traffic and marketing performance.
 
 ---
 
-# 🗄 SQL Analysis
+## 🗄 SQL Analysis
 
-SQL was used to analyze the raw data before creating the Power BI dashboard.
+The SQL portion of this project focused on:
 
-The SQL analysis includes:
-
-- Data Exploration
-- Sales Analysis
+- Exploratory Data Analysis (EDA)
+- Monthly Sales Trend Analysis
 - Product Performance Analysis
-- Website Traffic Analysis
-- Marketing Channel Analysis
+- Marketing Channel Performance
+- Website Funnel Analysis
 - KPI Calculations
 
 ---
@@ -151,18 +173,37 @@ toy-store-sales-dashboard/
 ![image alt](https://github.com/smruthis/toy-store-business-analysis/blob/3d8603b90aacc061bedebac383b4eedb801ad928/Images/Marketing%20%26%20Website%20Analytics%20Dashboard.png)
 
 ---
-**Link to the dashboard:** https://drive.google.com/file/d/1Y2T0uTeLZRt6DBGt3RovxSA_RC4_NeOu/view?usp=sharing
+## 📥 Power BI Dashboard
 
-# 💡 Key Business Insights
+The Power BI dashboard (.pbix) can be downloaded here:
 
-- Identified the highest revenue-generating products.
-- Analyzed monthly revenue and order trends.
-- Evaluated product contribution to overall revenue.
-- Measured website conversion rate.
-- Compared marketing channel performance.
-- Analyzed website sessions by traffic source and device type.
-- Tracked refund amounts and overall business performance.
+🔗 https://drive.google.com/file/d/1Y2T0uTeLZRt6DBGt3RovxSA_RC4_NeOu/view?usp=sharing
+---
 
+## 📊 Key Metrics
+
+The dashboard tracks the following business KPIs:
+
+| KPI | Description |
+|------|-------------|
+| Total Revenue | Total revenue generated from completed orders |
+| Total Orders | Total number of customer orders |
+| Total Sessions | Total website sessions |
+| Conversion Rate | Percentage of website sessions converted into orders |
+| Average Order Value | Average revenue generated per customer order |
+| Total Refund Amount | Total refunded amount |
+
+---
+
+## 💡 Key Business Insights
+
+- Identified the top revenue-generating products to support inventory and sales planning.
+- Monitored monthly sales and order trends to evaluate business growth.
+- Compared product-level revenue contribution to identify high-performing products.
+- Evaluated marketing channels based on sessions, orders, and revenue generated.
+- Measured website conversion rate to understand customer purchasing behavior.
+- Analyzed website traffic by device type to support digital marketing strategies.
+- Monitored refund amounts to identify potential quality or customer satisfaction issues.
 ---
 
 # 🚀 Skills Demonstrated
@@ -183,6 +224,23 @@ toy-store-sales-dashboard/
 - Interactive Dashboards
 - Data Visualization
 - Slicers & Filters
+
+## 📐 DAX Measures
+
+Some of the DAX measures used include:
+
+- Total Revenue
+- Total Orders
+- Total Sessions
+- Conversion Rate
+- Average Order Value
+- Total Refund Amount
+
+---
+
+## ✅ Conclusion
+
+This project demonstrates an end-to-end Business Intelligence workflow using SQL and Power BI, showcasing skills in data analysis, KPI development, dashboard design, and business insight generation.
 
 ---
 
