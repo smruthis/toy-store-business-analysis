@@ -170,7 +170,7 @@ toy-store-sales-dashboard/
 
 ### Marketing & Website Analytics Dashboard
 
-![image alt](https://github.com/smruthis/toy-store-business-analysis/blob/3d8603b90aacc061bedebac383b4eedb801ad928/Images/Marketing%20%26%20Website%20Analytics%20Dashboard.png)
+![image alt](https://github.com/smruthis/toy-store-business-analysis/blob/4374f1b40a5b110dd8caa7b3ad02d99500e33c29/Images/Marketing%20%26%20Website%20Analytics%20Dashboard.png)
 
 ---
 ## 📥 Power BI Dashboard
