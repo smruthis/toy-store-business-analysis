@@ -240,9 +240,6 @@ Some of the DAX measures used include:
 
 ## 📊 Business Findings
 
-A detailed business analysis, dashboard walkthrough, interview notes, and recommendations are available in the project documentation.
-
-Highlights:
 - Generated approximately $2M in revenue from 32K orders.
 - Achieved a 6.83% website conversion rate.
 - Identified Mr. Fuzzy as the highest revenue-generating product.
